@@ -1,0 +1,5 @@
+#!/bin/bash
+git checkout wordle_log
+git add include/previous_answers.txt
+git commit -m "Updated wordle log"
+git push
